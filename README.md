@@ -1,2 +1,9 @@
-# signal-downloads
-Signal desktop app downloads
+# Signal Downloads
+
+Installers for Signal, a desktop music sequencer and MIDI editor.
+
+Download the latest available installer from this repository's [Releases](https://github.com/ketevan614/signal-downloads/releases) page. Run the installer for your operating system and follow its prompts.
+
+This repository contains release downloads and documentation only. It does not contain the Signal application source code.
+
+Signal builds on the [ryohey/signal](https://github.com/ryohey/signal) project, licensed under the MIT License. The license notice is included with the desktop application.
